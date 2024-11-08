@@ -20,4 +20,4 @@ A Bash script designed to automate daily backups of essential files in a Linux e
 ### Steps to Use the Script
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/rohitabhujel/automated-backup-system.git
+   git clone https://github.com/Rohitabhujel/automated-backup-system.git
